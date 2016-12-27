@@ -1,17 +1,14 @@
-head {
+body {
     background-image: url('https://scontent-dft4-1.xx.fbcdn.net/v/t1.0-9/15542034_1557946000889542_2515600547452935757_n.jpg?oh=361fd85198618c2f512e2795153b0561&oe=58D72848');
 	background-position: center top;
 	background-size: cover;
 	padding: 250px 0;
-	margin: 30px;
+	margin: 30px auto;
+	width: 75%
 	text-shadow: 0 2px #000000;
 	font-family: 'Trebuchet MS', 'Helvetica';
 }
 
-body {
-    margin: 60px auto;
-    width: 70%;
-}
 nav ul, footer ul {
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
     padding: 0px;
