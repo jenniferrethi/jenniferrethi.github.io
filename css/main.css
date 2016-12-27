@@ -30,6 +30,11 @@ header h1 {
   margin: 0;
 }
 
+header p {
+  padding: 0 20px;
+  margin: 0;
+}
+
 header, footer ul {
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
     padding: 0px;
