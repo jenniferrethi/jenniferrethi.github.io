@@ -10,6 +10,11 @@
     height: 1000px;
 }
 
+header nav {
+  display: flex;
+  justify-content: flex-end;
+}
+
 header .row,
 footer .row {
   display: flex;
