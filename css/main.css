@@ -1,7 +1,6 @@
 
 .jumbotron {
     font-family: 'Trebuchet MS', 'Helvetica';
-    background-color: #ffffff;
     background-image: url('https://scontent-dft4-1.xx.fbcdn.net/v/t1.0-9/15542034_1557946000889542_2515600547452935757_n.jpg?oh=361fd85198618c2f512e2795153b0561&oe=58D72848');
     background-position: center top;
     display: flex;
@@ -49,7 +48,7 @@ footer ul li {
 }
 a {
     text-decoration: none;
-    color: #999;
+    color: #F08080;
 }
 a:hover {
     text-decoration: underline;
