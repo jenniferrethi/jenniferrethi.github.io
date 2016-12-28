@@ -13,6 +13,7 @@
 header nav {
   display: flex;
   justify-content: flex-end;
+    
 }
 
 header {
@@ -35,7 +36,7 @@ header p {
   margin: 0;
 }
 
-header, footer ul {
+footer ul {
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
     padding: 0px;
     list-style: none;
