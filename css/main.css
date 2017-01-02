@@ -12,11 +12,7 @@
 header nav {
   display: flex;
   justify-content: flex-end;
-    margin: 0;
-}
-
-header {
-  padding: 100px ;
+  margin: 0;
 }
 
 header .row,
