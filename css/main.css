@@ -1,5 +1,5 @@
 body {
-    background-color: Black;
+    background-color: black;
 }
 
 .jumbotron {
@@ -60,7 +60,7 @@ h1 {
 p {
     font-size: 1em;
     line-height: 1em;
-    color: DimGray;
+    color: dimgray;
 }
 footer {
     border-top: 1px solid #d5d5d5;
