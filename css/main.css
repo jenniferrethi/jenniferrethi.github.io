@@ -10,7 +10,6 @@ img {
     font-family: 'Trebuchet MS', 'Helvetica';
     background-position: center top;
     display: flex;
-    height: 1000px;
 }
 
 footer ul {
@@ -28,9 +27,6 @@ a {
     text-decoration: none;
     color: dimgray;
 }
-a:hover {
-    text-decoration: underline;
-}
 h1 {
     font-size: 1em;
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
@@ -42,5 +38,5 @@ p {
 }
 footer {
     border-top: 1px solid #d5d5d5;
-    font-size: .8em;
+    font-size: em;
 }
