@@ -2,7 +2,6 @@
  .carousel-inner > .item > img,
  .carousel-inner > .item > a > img {
      width: 100%;
-     margin: auto;
   }
 
 img {
@@ -24,7 +23,6 @@ footer ul {
 }
 footer ul li {
     display: inline;
-    margin-right: 20px;
 }
 a {
     text-decoration: none;
@@ -41,5 +39,5 @@ p {
 }
 footer {
     border-top: 1px solid #d5d5d5;
-    font-size: em;
+    font-size: 1em;
 }
