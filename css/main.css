@@ -2,6 +2,10 @@ body {
     background-color: black;
 }
 
+header {
+    background-color: black;
+}
+
 .jumbotron {
     font-family: 'Trebuchet MS', 'Helvetica';
     background-image: url('http://i68.tinypic.com/hryd15.jpg');
