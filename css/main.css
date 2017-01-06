@@ -19,14 +19,12 @@ footer ul {
     padding: 0px;
     list-style: none;
     font-weight: bold;
-    color: 'LightCoral';
 }
 footer ul li {
     display: inline;
 }
 a {
     text-decoration: none;
-    color: dimgray;
 }
 h1 {
     font-size: 1em;
@@ -35,7 +33,6 @@ h1 {
 p {
     font-size: 1em;
     line-height: 1em;
-    color: dimgray;
 }
 footer {
     border-top: 1px solid #d5d5d5;
