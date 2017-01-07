@@ -14,7 +14,7 @@ img {
     display: flex;
 }
 
-.container {
+.row {
    border-top: 2px solid #d5d5d5;
    padding: 20px;
 }
