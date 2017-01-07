@@ -40,6 +40,6 @@ p {
     line-height: 1em;
 }
 footer {
-    border-top: 2px solid #d5d5d5;
     font-size: 1em;
+    padding: 20px;
 }
