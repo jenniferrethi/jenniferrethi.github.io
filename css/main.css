@@ -31,19 +31,21 @@ footer ul {
     list-style: none;
     font-weight: bold;
 }
+
 a {
     text-decoration: none;
 }
+
 h1 {
     font-size: 1em;
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
 }
+
 p {
     font-size: 1em;
     line-height: 1em;
 }
+
 footer {
     font-size: 1em;
-    padding: 20px;
-    border-bottom: 2px solid #d5d5d5;
 }
