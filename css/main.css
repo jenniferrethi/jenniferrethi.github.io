@@ -1,6 +1,6 @@
 
 .wics {
-    border-top: 2px solid #d5d5d5;
+    border-bottom: 2px solid #d5d5d5;
     padding: 20px;
 }
 
@@ -20,7 +20,7 @@ img {
 }
 
 .row {
-   border-top: 2px solid #d5d5d5;
+   border-bottom: 2px solid #d5d5d5;
    padding: 20px;
 }
 
@@ -29,9 +29,6 @@ footer ul {
     padding: 0px;
     list-style: none;
     font-weight: bold;
-}
-footer ul li {
-    display: inline;
 }
 a {
     text-decoration: none;
@@ -46,5 +43,5 @@ p {
 }
 footer {
     font-size: 1em;
-    padding: 20px;
+    /*padding: 20px;*/
 }
