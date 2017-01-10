@@ -1,9 +1,4 @@
-.wics { 
-    border-bottom: 2px solid #d5d5d5;
-    padding: 20px;
-}
-
-.container {
+.container-fluid {
     border-bottom: 2px solid #d5d5d5;
     padding: 20px;
 }
