@@ -1,4 +1,9 @@
 
+.wics {
+    border-top: 2px solid #d5d5d5;
+    padding: 20px;
+}
+
  .carousel-inner > .item > img,
  .carousel-inner > .item > a > img {
      width: 100%;
