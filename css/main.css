@@ -1,3 +1,12 @@
+.wics { 
+    border-bottom: 2px solid #d5d5d5;
+    padding: 20px;
+}
+
+.container {
+    border-bottom: 2px solid #d5d5d5;
+    padding: 20px;
+}
 
  .carousel-inner > .item > img,
  .carousel-inner > .item > a > img {
@@ -12,11 +21,8 @@ img {
     font-family: 'Trebuchet MS', 'Helvetica';
     background-position: center top;
     display: flex;
-}
-
-.row {
-   border-bottom: 2px solid #d5d5d5;
-   padding: 20px;
+    border-bottom: 2px solid #d5d5d5;
+    padding: 20px;
 }
 
 footer ul {
@@ -38,5 +44,6 @@ p {
 }
 footer {
     font-size: 1em;
-    /*padding: 20px;*/
+    padding: 20px;
+    border-bottom: 2px solid #d5d5d5;
 }
