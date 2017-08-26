@@ -46,3 +46,20 @@ footer {
     border-top: 2px solid #d5d5d5; 
     padding: 20px;
 }
+
+.css-typing
+{
+    width: 100%;
+    white-space:nowrap;
+    overflow:hidden;
+    -webkit-animation: type 5s steps(50, end);
+    animation: type 5s steps(50, end);
+}
+
+@keyframes type{
+    from { width: 0; }
+}
+
+@-webkit-keyframes type{
+    from { width: 0; }
+}
