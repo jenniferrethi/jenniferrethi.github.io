@@ -52,8 +52,8 @@ footer {
     width: 100%;
     white-space:nowrap;
     overflow:hidden;
-    -webkit-animation: type 5s steps(50, end);
-    animation: type 5s steps(50, end);
+    -webkit-animation: type 3s steps(50, end);
+    animation: type 3s steps(50, end);
 }
 
 @keyframes type{
